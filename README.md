@@ -15,8 +15,6 @@ I am an Electrical and Electronics Engineering student passionate about hardware
 * **Documentation:** Preparing professional and academic technical reports using **LaTeX**.
 
 ## 🚀 Current Focus & Past Projects
-* Currently focusing on deepening my knowledge in semiconductor devices and complex circuit analysis.
-* Experienced in academic research competitions (participated in the **TÜBİTAK 2204-A** Research Projects Competition).
 * Building my portfolio with MATLAB algorithms and digital logic designs.
 
 ## 📫 How to reach me
