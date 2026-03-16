@@ -20,5 +20,5 @@ I am an Electrical and Electronics Engineering student passionate about hardware
 * Building my portfolio with MATLAB algorithms and digital logic designs.
 
 ## 📫 How to reach me
-* **Email:** cerenyenigökce@gmail.com
+* **Email:** cerenyenigokce@gmail.com
 
